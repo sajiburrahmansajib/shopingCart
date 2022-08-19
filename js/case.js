@@ -25,3 +25,6 @@ document.getElementById('btn-case-sub').addEventListener('click', function () {
 
 
 });
+document.getElementById('btn-checkOut').addEventListener('click', function () {
+    window.print();
+})
